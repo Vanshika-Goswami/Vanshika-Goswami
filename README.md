@@ -1,4 +1,4 @@
-![logo](https://github.com/Vanshika-Goswami/Vanshika-Goswami/blob/main/240_F_447199446_BmzZ6ehiI5ygn5DEV8Gz1lnBRXAT7edg.jpg)
+![logo](https://github.com/Vanshika-Goswami/Vanshika-Goswami/blob/main/Green%20Gaming%20Channel%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Vanshika Goswami</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
