@@ -1,6 +1,6 @@
 ![logo](https://github.com/Vanshika-Goswami/Vanshika-Goswami/blob/main/Green%20Gaming%20Channel%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Vanshika Goswami</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">An aspiring tech innovator from India, passionate about coding and transforming ideas into reality.</h3>
 
 <img align="right" alt="coding" width ="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
